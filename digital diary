@@ -469,3 +469,10 @@ public class DigitalDiary{
         sc.close();
     }
 }
+
+public class rumba{
+    void rummy(int jar){
+        jar = 10;
+        system.out.println("bhosh, shut up pls")
+    }
+}
